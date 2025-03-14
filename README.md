@@ -2,6 +2,8 @@
 
 Welcome to the **iProov Testing iOS App** repository! This project is an iOS application built using Swift and SwiftUI/UIKit.
 [![](https://raw.githubusercontent.com/fawadniazi/iProov/refs/heads/main/SC1.png)](https://raw.githubusercontent.com/fawadniazi/iProov/refs/heads/main/SC1.png)
+[![](https://raw.githubusercontent.com/fawadniazi/iProov/refs/heads/main/SC2.png)](https://raw.githubusercontent.com/fawadniazi/iProov/refs/heads/main/SC2.png)
+[![](https://raw.githubusercontent.com/fawadniazi/iProov/refs/heads/main/SC3.png)](https://raw.githubusercontent.com/fawadniazi/iProov/refs/heads/main/SC3.png)
 
 ## Table of Contents
 - [Requirements](#requirements)
