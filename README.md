@@ -1,6 +1,7 @@
 # iProov Testing iOS App 
 
 Welcome to the **iProov Testing iOS App** repository! This project is an iOS application built using Swift and SwiftUI/UIKit.
+[![](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/1-small.png)](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/1.png)
 
 ## Table of Contents
 - [Requirements](#requirements)
